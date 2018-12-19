@@ -8,5 +8,6 @@ namespace INTRANET.data
 {
     public class Class1
     {
+		string a = "";
     }
 }
