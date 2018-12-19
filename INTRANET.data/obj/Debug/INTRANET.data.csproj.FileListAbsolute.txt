@@ -1,0 +1,10 @@
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.data\bin\Debug\INTRANET.data.dll
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.data\bin\Debug\INTRANET.data.pdb
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.data\obj\Debug\INTRANET.data.csprojResolveAssemblyReference.cache
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.data\obj\Debug\INTRANET.data.dll
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.data\obj\Debug\INTRANET.data.pdb
+D:\SISTEMAS\SIS_INTRANET\INTRANET.data\bin\Debug\INTRANET.data.dll
+D:\SISTEMAS\SIS_INTRANET\INTRANET.data\bin\Debug\INTRANET.data.pdb
+D:\SISTEMAS\SIS_INTRANET\INTRANET.data\obj\Debug\INTRANET.data.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\SIS_INTRANET\INTRANET.data\obj\Debug\INTRANET.data.dll
+D:\SISTEMAS\SIS_INTRANET\INTRANET.data\obj\Debug\INTRANET.data.pdb

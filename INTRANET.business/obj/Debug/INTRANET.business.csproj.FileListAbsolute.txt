@@ -1,0 +1,10 @@
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.business\bin\Debug\INTRANET.business.dll
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.business\bin\Debug\INTRANET.business.pdb
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.business\obj\Debug\INTRANET.business.csprojResolveAssemblyReference.cache
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.business\obj\Debug\INTRANET.business.dll
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.business\obj\Debug\INTRANET.business.pdb
+D:\SISTEMAS\SIS_INTRANET\INTRANET.business\bin\Debug\INTRANET.business.dll
+D:\SISTEMAS\SIS_INTRANET\INTRANET.business\bin\Debug\INTRANET.business.pdb
+D:\SISTEMAS\SIS_INTRANET\INTRANET.business\obj\Debug\INTRANET.business.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\SIS_INTRANET\INTRANET.business\obj\Debug\INTRANET.business.dll
+D:\SISTEMAS\SIS_INTRANET\INTRANET.business\obj\Debug\INTRANET.business.pdb

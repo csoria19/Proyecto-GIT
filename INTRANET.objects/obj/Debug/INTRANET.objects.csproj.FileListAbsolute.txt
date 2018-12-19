@@ -1,0 +1,9 @@
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.objects\bin\Debug\INTRANET.objects.dll
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.objects\bin\Debug\INTRANET.objects.pdb
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.objects\obj\Debug\INTRANET.objects.dll
+D:\CarlosSoria\SIS\SIS_INTRANET\SIS_INTRANET\INTRANET.objects\obj\Debug\INTRANET.objects.pdb
+D:\SISTEMAS\SIS_INTRANET\INTRANET.objects\bin\Debug\INTRANET.objects.dll
+D:\SISTEMAS\SIS_INTRANET\INTRANET.objects\bin\Debug\INTRANET.objects.pdb
+D:\SISTEMAS\SIS_INTRANET\INTRANET.objects\obj\Debug\INTRANET.objects.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\SIS_INTRANET\INTRANET.objects\obj\Debug\INTRANET.objects.dll
+D:\SISTEMAS\SIS_INTRANET\INTRANET.objects\obj\Debug\INTRANET.objects.pdb
